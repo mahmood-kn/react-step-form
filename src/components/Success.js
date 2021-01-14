@@ -4,8 +4,6 @@ import Toolbar from '@material-ui/core/Toolbar';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import Typography from '@material-ui/core/Typography';
-
-import Container from '@material-ui/core/Container';
 import { useStyles } from '../customize-mui/customizeMui';
 
 const FormUserDetails = () => {
@@ -36,7 +34,6 @@ const FormUserDetails = () => {
           You will get an email with further instruction
         </Typography>
       </div>
-      <Container maxWidth='xs'></Container>
     </React.Fragment>
   );
 };
