@@ -8,4 +8,4 @@ This is step by step form to get user data built using **React**.
 
 ### Live demo
 
-Click [here](https://mahmood-kn.github.io/react-step-form 'Form Validation') to see the live demo of this project.
+Click [here](https://mahmood-kn.github.io/react-step-form 'Step Form') to see the live demo of this project.
